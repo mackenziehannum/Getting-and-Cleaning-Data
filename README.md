@@ -2,12 +2,14 @@
 This is my submission for Coursera's "Getting and Cleaning Data" Week 4 Course Project. 
 
 # Contents
-1. R code - data cleaning for later analysis
-2. Codebook
-3. Tdy data set for the assignment.
+1. README - explanation of included files
+2. R code - data cleaning script for later analysis
+3. Codebook
+4. Tidy data set for the assignment.
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 This repo explains how all of the scripts work and how they are connected.
+
 # Data
 Information gathered from wearable computing, specifically the Samsung Galazy 5 smartphone. 
 
